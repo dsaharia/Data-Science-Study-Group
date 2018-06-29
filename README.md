@@ -12,6 +12,6 @@ We follow a simple format.
 2. A Skype discussion on Saturday. Presentation on the week's topics by session leader for 30 minutes. Discussion about next week's topics for 30 minutes.
 
 # Schedule 
-* [July 7, 2018](): Basics of Python - lists
-* [July 14, 2018](): ENTER HERE
-* [July 21, 2018](): ENTER here
+* [July 7, 2018](/week1): Basics of Python - lists
+* [July 14, 2018](/week2): ENTER HERE
+* [July 21, 2018](/week3): ENTER here
