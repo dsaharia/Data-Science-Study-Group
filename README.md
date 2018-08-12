@@ -13,5 +13,4 @@ We follow a simple format.
 
 # Schedule 
 * [July 7, 2018](/week1): Basics of Python - lists
-* [July 14, 2018](/week2): ENTER HERE
-* [July 21, 2018](/week3): ENTER here
+* [August 13, 2018](/week2): Spatial and time-series visualization, pandas, seaborn.
