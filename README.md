@@ -13,4 +13,7 @@ We follow a simple format.
 
 # Schedule 
 * [July 7, 2018](/week1): Basics of Python - lists
-* [August 13, 2018](/week2): Spatial and time-series visualization, pandas, seaborn.
+* [August 13, 2018](/week2): Spatial and time-series visualization, pandas, seaborn
+
+# Updates
+* Repo integrated with Slack channel
