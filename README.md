@@ -16,8 +16,8 @@ We follow a simple format.
 * [August 13, 2018](/week2): Spatial and time-series visualization, pandas, seaborn
 
 # Tools to cover 
-- [] Zotero
-- [] Keras
+- [ ] Zotero
+- [ ] Keras
 
 # Updates
 * Repo integrated with Slack channel
