@@ -1,11 +1,7 @@
 # This week's topics
-* Basics of ploting using matplotlib and seaborn.
-* Basics of pandas, Dataframes and time-series plots.
-* Know about real life datasets and how to read them.
-* Search about time-series plots and other graphs.
+* Basics of Numpy and its operations, uses and syntax.
 
 # Study material
-* Youtube - Sentdex's Tutorials(Basics)
+* [LINK](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 
 # Next week
-Annual Rainfall analysis using seaborn and pandas.
